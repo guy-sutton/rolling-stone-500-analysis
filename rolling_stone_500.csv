@@ -1,0 +1,501 @@
+rank_no,album,artist,year,genre,record_label
+1,What's Going On,Marvin Gaye,1971,Soul,Motown
+2,Pet Sounds,The Beach Boys,1966,Pop,Capitol
+3,Blue,Joni Mitchell,1971,Folk,Reprise
+4,Songs in the Key of Life,Stevie Wonder,1976,Soul,Motown
+5,Abbey Road,The Beatles,1969,Rock,Apple
+6,Nevermind,Nirvana,1991,Grunge,Geffen
+7,Rumours,Fleetwood Mac,1977,Rock,Warner Bros.
+8,Purple Rain,Prince and The Revolution,1984,Pop,Warner Bros.
+9,Blood on the Tracks,Bob Dylan,1975,Folk,Columbia
+10,The Miseducation of Lauryn Hill,Lauryn Hill,1998,R&B,Columbia
+11,Revolver,The Beatles,1966,Rock,Apple
+12,Thriller,Michael Jackson,1982,Pop,Epic
+13,I Never Loved a Man the Way I Love You,Aretha Franklin,1967,Soul,Atlantic
+14,Exile on Main Street,The Rolling Stones,1972,Rock,Rolling Stones 
+15,It Takes a Nation of Millions to Hold Us Back,Public Enemy,1988,Hip-Hop,Def Jam
+16,London Calling,The Clash,1979,Punk,CBS
+17,My Beautiful Dark Twisted Fantasy,Kanye West,2010,Hip-Hop,Roc-A-Fella
+18,Highway 61 Revisited,Bob Dylan,1965,Rock,Columbia
+19,To Pimp a Butterfly,Kendrick Lamar,2015,Hip-Hop,TDE
+20,Kid A,Radiohead,2000,Alternative,Parlophone
+21,Born to Run,Bruce Springsteen,1975,Rock,Columbia
+22,Ready to Die,The Notorious B.I.G.,1994,Hip-Hop,Bad Boy
+23,The Velvet Underground & Nico,The Velvet Underground,1967,Rock,Verve
+24,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,1967,Rock,Capitol
+25,Tapestry,Carole King,1971,Pop,Sony
+26,Horses,Patti Smith,1975,Rock,Arista
+27,Enter the Wu-Tang (36 Chambers),Wu-Tang Clan,1993,Hip-Hop,Loud
+28,Voodoo,D'Angelo,2000,R&B,EMI
+29,The White Album,The Beatles,1968,Rock,Apple
+30,Are You Experienced,Jimi Hendrix,1967,Rock,Track
+31,Kind of Blue,Miles Davis,1959,Jazz,Columbia
+32,Lemonade,Beyoncé,2016,Pop,Columbia
+33,Back to Black,Amy Winehouse,2006,Soul,Island
+34,Innervisions,Stevie Wonder,1973,Soul,Motown
+35,Rubber Soul,The Beatles,1965,Rock,Parlophone
+36,Off the Wall,Michael Jackson,1979,Pop,Epic
+37,The Chronic,Dr. Dre,1992,Hip-Hop,Deathrow
+38,Blonde on Blonde,Bob Dylan,1966,Rock,Columbia
+39,Remain in Light,Talking Heads,1980,Rock,Sire
+40,The Rise and Fall of Ziggy Stardust,David Bowie,1972,Rock,RCA
+41,Let It Bleed,The Rolling Stones,1969,Rock,ABKCO
+42,OK Computer,Radiohead,1997,Alternative,Capitol
+43,The Low End Theory,A Tribe Called Quest,1991,Hip-Hop,Jive
+44,Illmatic,Nas,1994,Hip-Hop,Columbia
+45,Sign o' the Times,Prince,1987,Pop,Warner Bros.
+46,Graceland,Paul Simon,1986,Pop,Columbia
+47,Ramones,Ramones,1976,Punk,Sire
+48,Exodus,Bob Marley and The Wailers,1977,Reggae,Island
+49,Aquemini,OutKast,1998,Hip-Hop,LaFace
+50,The Blueprint,Jay-Z,2001,Hip-Hop,Roc-A-Fella
+51,The Great Twenty-Eight,Chuck Berry,1982,Rock & Roll,Chess
+52,Station to Station,David Bowie,1976,Rock,RCA
+53,Electric Ladyland,Jimi Hendrix,1968,Rock,Reprise
+54,Star Time,James Brown,1991,Funk,Polydor
+55,The Dark Side of the Moon,Pink Floyd,1973,Rock,EMI
+56,Exile in Guyville,Liz Phair,1993,Indie Rock,Matador
+57,The Band,The Band,1969,Folk,Capitol
+58,Led Zeppelin IV,Led Zeppelin,1971,Rock,Atlantic
+59,Talking Book,Stevie Wonder,1972,Soul,Motown
+60,Astral Weeks,Van Morrison,1968,Folk,Warner Bros.
+61,Paid in Full,Eric B. and Rakim,1987,Hip-Hop,4th & B'way
+62,Appetite for Destruction,Guns N' Roses,1987,Rock,Geffen
+63,Aja,Steely Dan,1977,Jazz,ABC
+64,Stankonia,OutKast,2000,Hip-Hop,LaFace
+65,Live at the Apollo,James Brown,1963,Soul,King
+66,A Love Supreme,John Coltrane,1965,Jazz,Impulse!
+67,Reasonable Doubt,Jay-Z,1996,Hip-Hop,Roc-A-Fella
+68,Hounds of Love,Kate Bush,1985,Pop,EMI
+69,Jagged Little Pill,Alanis Morissette,1995,Alternative,Maverick
+70,Straight Outta Compton,N.W.A,1988,Hip-Hop,Ruthless
+71,Renaissance,Beyoncé,2022,Pop,Columbia
+72,Harvest,Neil Young,1972,Folk,Reprise
+73,Loveless,My Bloody Valentine,1991,Alternative,Sire
+74,The College Dropout,Kanye West,2004,Hip-Hop,Roc-A-Fella
+75,Lady Soul,Aretha Franklin,1968,Soul,Atlantic
+76,Superfly,Curtis Mayfield,1972,Funk,Curtom
+77,Who's Next,The Who,1971,Rock,Decca
+78,The Sun Sessions,Elvis Presley,1976,Rock & Roll,RCA
+79,Blond,Frank Ocean,2016,R&B,Boys Don't Cry
+80,"Never Mind the Bollocks, Here's the Sex Pistols",The Sex Pistols,1977,Punk,Warner Bros.
+81,Beyoncé,Beyoncé,2013,R&B,Coulmbia
+82,There's a Riot Goin' On,Sly and the Family Stone,1971,Funk,Epic
+83,Dusty in Memphis,Dusty Springfield,1969,Soul,Atlantic
+84,Back in Black,AC/DC,1980,Rock,Atlantic
+85,Plastic Ono Band,John Lennon,1970,Rock,Apple
+86,The Doors,The Doors,1967,Rock,Elektra
+87,Bitches Brew,Miles Davis,1970,Jazz,Columbia
+88,Hunky Dory,David Bowie,1971,Rock,RCA
+89,Baduism,Erykah Badu,1997,R&B,Kedar
+90,After the Gold Rush,Neil Young,1970,Folk,Reprise
+91,Darkness on the Edge of Town,Bruce Springsteen,1978,Rock,Columbia
+92,Axis: Bold as Love,The Jimi Hendrix Experience,1967,Rock,Track
+93,Supa Dupa Fly,"Missy ""Misdemeanor"" Elliott",1997,Hip-Hop,Goldmind
+94,Fun House,The Stooges,1970,Rock,Elektra
+95,Take Care,Drake,2011,Hip-Hop,Cash Money
+96,Automatic for the People,R.E.M.,1992,Rock,Warner Bros.
+97,Master of Puppets,Metallica,1986,Metal,Elektra
+98,Car Wheels on a Gravel Road,Lucinda Williams,1998,Folk,Mercury
+99,Red,Taylor Swift,2012,Pop,Big Machine
+100,Music from Big Pink,The Band,1968,Folk,Capitol
+101,Led Zeppelin,Led Zeppelin,1969,Rock,Atlantic
+102,The Clash,The Clash,1977,Punk,CBS
+103,3 Feet High and Rising,De La Soul,1989,Hip-Hop,Tommy Boy
+104,Sticky Fingers,The Rolling Stones,1971,Rock,Rolling Stones 
+105,At Fillmore East,The Allman Brothers,1971,Blues,Capricorn
+106,Live Through This,Hole,1994,Grunge,Geffen
+107,Marquee Moon,Television,1977,Rock,Elektra
+108,When the Pawn...,Fiona Apple,1999,Alternative,Epic
+109,Transformer,Lou Reed,1972,Rock,RCA
+110,Court and Spark,Joni Mitchell,1974,Folk,Asylum
+111,Control,Janet Jackson,1986,Funk,A&M
+112,Goodbye Yellow Brick Road,Elton John,1973,Pop,MCA
+113,The Queen is Dead,The Smiths,1986,Indie Rock,Sire
+114,Is This It?,The Strokes,2001,Indie Rock,RCA
+115,"Good Kid, M.A.A.D City",Kendrick Lamar,2012,Hip-Hop,TDE
+116,Disintegration,The Cure,1989,Alternative,Fiction
+117,Late Registration,Kanye West,2005,Hip-Hop,Roc-A-Fella
+118,Hotel California,The Eagles,1976,Rock,Asylum
+119,Stand!,Sly and the Family Stone,1969,Funk,Epic
+120,Moondance,Van Morrison,1970,Folk,Warner Bros.
+121,This Year's Model,Elvis Costello,1978,Rock,Columbia
+122,The Downward Spiral,Nine Inch Nails,1994,Metal,Interscope
+123,Led Zeppelin II,Led Zeppelin,1969,Rock,Atlantic
+124,Achtung Baby,U2,1991,Rock,Island
+125,Paul's Boutique,Beastie Boys,1989,Hip-Hop,Capitol
+126,My Life,Mary J. Blige,1994,R&B,Uptown
+127,Modern Sounds in Country and Western Music,Ray Charles,1962,Country,ABC-Paramount
+128,A Night at the Opera,Queen,1975,Rock,Elektra
+129,The Wall,Pink Floyd,1979,Rock,Columbia
+130,1999,Prince,1982,Pop,Warner Bros.
+131,Dummy,Portishead,1994,Hip-Hop,Go! Beat
+132,40 Greatest Hits,Hank Williams,1978,Country,Polydor
+133,Hejira,Joni Mitchell,1976,Folk,Asylum
+134,The Score,Fugees,1996,Hip-Hop,Columbia
+135,The Joshua Tree,U2,1987,Rock,Island
+136,Maggot Brain,Funkadelic,1971,Funk,Westbound
+137,21,Adele,2011,Pop,Columbia
+138,The Immaculate Collection,Madonna,1990,Pop,Sire
+139,Paranoid,Black Sabbath,1970,Metal,Vertigo
+140,Catch a Fire,Bob Marley and the Wailers,1973,Reggae,Island
+141,Doolittle,Pixies,1989,Indie Rock,Elektra
+142,Born in the U.S.A.,Bruce Springsteen,1984,Rock,Columbia
+143,The Velvet Underground,The Velvet Underground,1969,Rock,MGM
+144,Physical Graffiti,Led Zeppelin,1975,Rock,Swan Song
+145,The Marshall Mathers LP,Eminem,2000,Hip-Hop,Interscope
+146,Parallel Lines,Blondie,1978,Pop,Chrysalis
+147,Grace,Jeff Buckley,1994,Rock,Columbia
+148,Channel Orange,Frank Ocean,2012,R&B,Def Jam
+149,John Prine,John Prine,1971,Country,Atlantic
+150,Nebraska,Bruce Springsteen,1982,Folk,Columbia
+151,Faith,George Michael,1987,Pop,Columbia
+152,Pretenders,The Pretenders,1980,Rock,Sire
+153,Rid of Me,PJ Harvey,1993,Alternative,Island
+154,Amazing Grace,Aretha Franklin,1972,Gospel,Atlantic
+155,The Black Album,Jay-Z,2003,Hip-Hop,Roc-A-Fella
+156,Let It Be,The Replacements,1984,Punk,Tone
+157,What's the Story Morning Glory,Oasis,1995,Britpop,Epic
+158,Mama's Gun,Erykah Badu,2000,R&B,Motown
+159,Synchronicity,The Police,1983,Rock,A&M
+160,Ten,Pearl Jam,1991,Grunge,Epic
+161,"Crosby, Stills, and Nash","Crosby, Stills, and Nash",1969,Folk,Atlantic
+162,Different Class,Pulp,1995,Britpop,Island
+163,Saturday Night Fever,"Bee Gees, Various Artists",1977,Disco,RSO
+164,At Folsom Prison,Johnny Cash,1968,Country,Columbia
+165,Murmur,R.E.M.,1983,Rock,I.R.S.
+166,20 Golden Greats,Buddy Holly,1978,Rock & Roll,MCA
+167,Violator,Depeche Mode,1990,Synthpop,Sire
+168,Can't Buy a Thrill,Steely Dan,1972,Jazz,ABC
+169,The Stranger,Billy Joel,1977,Pop,Columbia
+170,Folklore,Taylor Swift,2020,Folk,Republic
+171,Daydream Nation,Sonic Youth,1988,Alternative,Enigma
+172,Bridge Over Troubled Water,Simon and Garfunkel,1970,Folk,Columbia
+173,In Utero,Nirvana,1993,Grunge,Geffen
+174,The Harder They Come: Original Soundtrack,Jimmy Cliff and Various Artists,1972,Reggae,Mango
+175,Damn.,Kendrick Lamar,2017,Hip-Hop,TDE
+176,Fear of a Black Planet,Public Enemy,1990,Hip-Hop,Columbia
+177,Every Picture Tells a Story,Rod Stewart,1971,Rock,Mercury
+178,Otis Blue,Otis Redding,1965,Soul,Volt
+179,Life After Death,Notorious B.I.G,1997,Hip-Hop,Bad Boy
+180,Forever Changes,Love,1967,Folk,Elektra
+181,Bringing It All Back Home,Bob Dylan,1965,Folk,Coulmbia
+182,Sweet Baby James,James Taylor,1970,Folk,Warner Bros.
+183,Brown Sugar,D'Angelo,1995,R&B,EMI
+184,She's So Unusual,Cyndi Lauper,1983,Pop,Portrait
+185,Beggars Banquet,The Rolling Stones,1968,Rock,Decca
+186,Blood Sugar Sex Magik,Red Hot Chili Peppers,1991,Rock,Warner Bros.
+187,AmeriKKKa's Most Wanted,Ice Cube,1990,Hip-Hop,Priority
+188,Electric Warrior,T. Rex,1971,Rock,Reprise
+189,Dig Me Out,Sleater-Kinney,1997,Indie Rock,Kill Rock Stars
+190,Tommy,The Who,1969,Rock,Decca
+191,At Last,Etta James,1961,R&B,Argo
+192,Licensed to Ill,Beastie Boys,1986,Hip-Hop,Coulmbia
+193,Willy and the Poor Boys,Creedence Clearwater Revival,1969,Folk,Fantasy
+194,Bad,Michael Jackson,1987,Pop,Epic
+195,Songs of Leonard Cohen,Leonard Cohen,1967,Folk,Coulmbia
+196,Body Talk,Robyn,2010,Synthpop,Konichiwa
+197,Meet the Beatles!,The Beatles,1964,Rock,Capitol
+198,The B-52's,The B-52's,1979,Rock,Warner Bros.
+199,Slanted and Enchanted,Pavement,1993,Indie Rock,Matador
+200,Diamond Life,Sade,1984,Soul,Epic
+201,Midnight Marauders,A Tribe Called Quest,1993,Hip-Hop,Jive
+202,Homogenic,Björk,1997,Electronic,Elektra
+203,Pink Moon,Nick Drake,1979,Folk,Island
+204,Graduation,Kanye West,2007,Hip-Hop,Roc-A-Fella
+205,Tea for the Tillerman,Cat Stevens,1970,Folk,A&M
+206,Low,David Bowie,1977,Rock,RCA
+207,Eagles,Eagles,1972,Rock,Asylum
+208,Tha Carter III,Lil Wayne,2008,Hip-Hop,Universal Motown
+209,Raising Hell,Run-DMC,1986,Hip-Hop,Profile
+210,The Birth of Soul,Ray Charles,1991,Soul,Atlantic
+211,Unknown Pleasures,Joy Division,1980,Punk,Factory
+212,Wild Is the Wind,Nina Simone,1966,Jazz,Philips
+213,The Idler Wheel,Fiona Apple,2012,Indie Rock,Epic
+214,Wildflowers,Tom Petty,1994,Rock,Warner Bros.
+215,American Beauty,Grateful Dead,1970,Folk,Warner Bros.
+216,Either/Or,Elliott Smith,1997,Indie Rock,Kill Rock Stars
+217,Definitely Maybe,Oasis,1994,Britpop,Epic
+218,CrazySexyCool,TLC,1994,R&B,LaFace
+219,Only Built 4 Cuban Linx,Raekwon,1995,Hip-Hop,RCA
+220,Déjà Vu,"Crosby, Stills, Nash & Young",1970,Folk,Epic
+221,Rage Against the Machine,Rage Against the Machine,1992,Metal,Epic
+222,Ray of Light,Madonna,1998,Synthpop,Maverick
+223,Imagine,John Lennon,1971,Rock,Apple
+224,Fly,Dixie Chicks,1999,Country,Monument
+225,Yankee Hotel Foxtrot,Wilco,2001,Indie Rock,Nonesuch
+226,Layla and Other Assorted Love Songs,Derek and the Dominos,1970,Rock,Atco
+227,Here's Little Richard,Little Richard,1957,Rock & Roll,Specialty
+228,De La Soul Is Dead,De La Soul,1991,Hip-Hop,Tommy Boy
+229,The Ultimate Collection,Patsy Cline,2000,Country,Universal
+230,Anti,Rihanna,2016,R&B,Roc Nation
+231,Damn the Torpedoes,Tom Petty and the Heartbreakers,1979,Rock,Backstreet
+232,Giant Steps,John Coltrane,1960,Jazz,Atlantic
+233,Little Earthquakes,Tori Amos,1992,Rock,Atlantic
+234,Master of Reality,Black Sabbath,1971,Metal,Vertigo
+235,Metallica (The Black Album),Metallica,1991,Metal,Elektra
+236,Discovery,Daft Punk,2001,Electronic,Virgin
+237,Red Handed Stranger,Willie Nelson,1975,Country,Columbia
+238,Trans Europe Express,Kraftwerk,1977,Electronic,Kling Klang
+239,Criminal Minded,Boogie Down Productions,1987,Hip-Hop,B-Boy
+240,"Live at the Harlem Square Club, 1963",Sam Cooke,1985,Soul,RCA
+241,Blue Lines,Massive Attack,1991,Hip-Hop,Virgin
+242,Loaded,The Velvet Underground,1970,Rock,Cotillion
+243,Odyssey and Oracle,The Zombies,1968,Rock,Date
+244,808s and Heartbreak,Kanye West,2008,Hip-Hop,Roc-A-Fella
+245,Heaven or Las Vegas,Cocteau Twins,1990,Pop,4AD
+246,Mama Said Knock You Out,LL Cool J,1991,Hip-Hop,Columbia
+247,Love Deluxe,Sade,1992,Soul,Epic
+248,American Idiot,Green Day,2004,Punk,Reprise
+249,Whitney Houston,Whitney Houston,1985,Pop,Arista
+250,Singles Going Steady,Buzzcocks,1979,Punk,I.R.S.
+251,Honky Château,Elton John,1972,Rock,UNI
+252,Q: Are We Not Men? A: We Are Devo!,Devo,1978,Alternative,Warner Bros.
+253,The Piper at the Gates of Dawn,Pink Floyd,1967,Rock,Columbia
+254,Head Hunters,Herbie Hancock,1973,Jazz,Columbia
+255,The Freewheelin' Bob Dylan,Bob Dylan,1963,Folk,Columbia
+256,Tracy Chapman,Tracy Chapman,1988,Folk,Elektra
+257,Coat of Many Colors,Dolly Parton,1971,Country,RCA
+258,The Hissing of Summer Lawns,Joni Mitchell,1975,Folk,Asylum
+259,Pearl,Janis Joplin,1971,Rock,Columbia
+260,Cut,The Slits,1979,Alternative,Antilles
+261,Check Your Head,Beastie Boys,1992,Hip-Hop,Capitol
+262,"Power, Corruption & Lies",New Order,1983,Synthpop,Factory
+263,A Hard Day's Night,The Beatles,1964,Rock,United Artists
+264,Wish You Were Here,Pink Floyd,1975,Rock,Columbia
+265,Wowee Zowee,Pavement,1995,Indie Rock,Matador
+266,Help!,The Beatles,1965,Rock,Capitol
+267,Double Nickels on the Dime,Minutemen,1984,Punk,SST
+268,Sail Away,Randy Newman,1972,Rock,Reprise
+269,Yeezus,Kanye West,2013,Hip-Hop,Roc-A-Fella
+270,Golden Hour,Kacey Musgraves,2018,Country,MCA Nashville
+271,What's the 411?,Mary J. Blige,1992,R&B,MCA
+272,White Light/White Heat,The Velvet Underground,1968,Alternative,Verve
+273,Entertainment!,Gang of Four,1979,Punk,Warner Bros.
+274,Sweetheart of the Rodeo,The Byrds,1968,Folk,Columbia
+275,Curtis,Curtis Mayfield,1970,Soul,Curtom
+276,The Bends,Radiohead,1995,Alternative,Capitol
+277,The Diary of Alicia Keys,Alicia Keys,2003,R&B,J Records
+278,Houses of the Holy,Led Zeppelin,1973,Rock,Atlantic
+279,MTV Unplugged in New York,Nirvana,1994,Grunge,Geffem
+280,Get Rich or Die Tryin',50 Cent,2002,Hip-Hop,Interscope
+281,Nilsson Schmilsson,Harry Nilsson,1971,Pop,RCA
+282,In the Wee Small Hours of the Morning,Frank Sinatra,1955,Jazz,Capitol
+283,Bad Girls,Donna Summer,1975,Disco,Casablanca
+284,Down Every Road 1962-1994,Merle Haggard,1996,Country,Capitol
+285,Third/Sister Lovers,Big Star,1978,Rock,PVC
+286,Californication,Red Hot Chili Peppers,1999,Rock,Warner Bros.
+287,Mr. Tambourine Man,The Byrds,1965,Folk,Columbia
+288,The Modern Lovers,The Modern Lovers,1976,Punk,Beserkley
+289,Post,Björk,1995,Alternative,Elektra
+290,Speakerboxxx/The Love Below,OutKast,2003,Hip-Hop,LaFace
+291,The Writing's on the Wall,Destiny's Child,1999,R&B,Columbia
+292,Van Halen,Van Halen,1978,Rock,Warner Bros.
+293,Last Splash,The Breeders,1993,Indie Rock,Elektra
+294,Weezer (The Blue Album),Weezer,1994,Rock,Geffen
+295,Random Access Memories,Daft Punk,2013,Electronic,Columbia
+296,Rust Never Sleeps,Neil Young,1979,Rock,Reprise
+297,So,Peter Gabriel,1986,Rock,Geffen
+298,Full Moon Fever,Tom Petty,1989,Rock,MCA
+299,Live at the Regal,B.B. King,1965,Blues,ABC-Paramount
+300,Come On Over,Shania Twain,1997,Pop,Mercury
+301,New York Dolls,New York Dolls,1973,Country,Mercury
+302,Tonight's the Night,Neil Young,1975,Folk,Reprise
+303,The Definitive Collection,ABBA,2001,Pop,Universal
+304,Just As I Am,Bill Withers,1971,Soul,Sussex
+305,Alive!,Kiss,1975,Rock,Casablanca
+306,I'm Still in Love with You,Al Green,1972,Soul,Hi
+307,Portrait of a Legend,Sam Cooke,2003,Soul,ABKCO
+308,Here Come the Warm Jets,Brian Eno,1974,Rock,Island
+309,Closer,Joy Division,1980,Punk,Factory
+310,Pink Flag,Wire,1977,Punk,Harvest
+311,On the Beach,Neil Young,1974,Folk,Reprise
+312,A Seat at the Table,Solange,2016,R&B,Columbia
+313,"Stories from the City, Stories from the Sea",PJ Harvey,2000,Rock,Island
+314,One in a Million,Aaliyah,1996,R&B,Atlantic
+315,El Mal Querer,Rosalía,2018,Pop,Sony
+316,The Who Sell Out,The Who,1967,Rock,Decca
+317,Lady in Satin,Billie Holiday,1958,Jazz,Columbia
+318,The Velvet Rope,Janet Jackson,1997,R&B,Virgin
+319,The Stone Roses,The Stone Roses,1989,Indie Rock,Silvertone
+320,Los Angeles,X,1980,Punk,Slash
+321,Norman Fucking Rockwell,Lana Del Rey,2019,Pop,Interscope
+322,From Elvis in Memphis,Elvis Presley,1969,Rock & Roll,RCA
+323,Sandinista,The Clash,1980,Punk,Epic
+324,A Rush of Blood to the Head,Coldplay,2002,Rock,Capitol
+325,All Killer No Filler,Jerry Lee Lewis,1993,Rock & Roll,Rhino
+326,Dirty Mind,Prince,1980,Funk,Warner Bros.
+327,Live at Leeds,The Who,1970,Rock,Decca
+328,Modern Vampires of the City,Vampire Weekend,2013,Indie Rock,XL
+329,Endtroducing,DJ Shadow,1996,Hip-Hop,Mo' Wax
+330,African Giant,Burna Boy,2019,Afrobeats,Atlantic
+331,Like a Prayer,Madonna,1989,Pop,Sire
+332,Elvis Presley,Elvis Presley,1956,Rock & Roll,RCA
+333,Still Bill,Bill Withers,1972,Soul,Sussex
+334,Abraxas,Santana,1970,Rock,Columbia
+335,The Basement Tapes,Bob Dylan and The Band,1975,Folk,Columbia
+336,Avalon,Roxy Music,1982,Pop,Warner Bros.
+337,John Wesley Harding,Bob Dylan,1967,Folk,Columbia
+338,Another Green World,Brian Eno,1975,Alternative,Island
+339,Rhythm Nation 1814,Janet Jackson,1989,Pop,A&M
+340,Doggystyle,Snoop Dogg,1993,Hip-Hop,Interscope
+341,Siamese Dream,The Smashing Pumpkins,1993,Rock,Virgin
+342,Let It Be,The Beatles,1970,Rock,Apple
+343,Greatest Hits,Sly and the Family Stone,1970,Funk,Epic
+344,Funky Kingston,Toots and the Maytals,1973,Reggae,Island
+345,"The Wild, the Innocent & the E Street Shuffle",Bruce Springsteen,1973,Rock,Columbia
+346,AM,Arctic Monkeys,2013,Indie Rock,Domino
+347,Liquid Swords,GZA,1995,Hip-Hop,Geffen
+348,Time (The Revelator),Gillian Welch,2001,Folk,Acony
+349,Kick Out the Jams,MC5,1969,Punk,Elektra
+350,Music of My Mind,Stevie Wonder,1972,Soul,Motown
+351,SOS,SZA,2022,R&B,RCA
+352,The Slim Shady LP,Eminem,1999,Hip-Hop,Interscope
+353,The Cars,The Cars,1978,Rock,Elektra
+354,Germfree Adolescents,X-Ray Spex,1978,Punk,EMI
+355,Black Sabbath,Black Sabbath,1970,Metal,Warner Bros.
+356,Gris-Gris,Dr. John,1968,Alternative,Atco
+357,Rain Dogs,Tom Waits,1985,Alternative,Island
+358,Sour,Olivia Rodrigo,2021,Pop,Geffen
+359,Radio City,Big Star,1974,Pop,Ardent
+360,One Nation Under a Groove,Funkadelic,1978,Funk,Warner Bros.
+361,The Black Parade,My Chemical Romance,2006,Rock,Reprise
+362,Never Too Much,Luther Vandross,1981,Soul,Epic
+363,The Mothership Connection,Parliament,1975,Funk,Casablanca
+364,More Songs About Buildings and Food,Talking Heads,1978,Rock,Sire
+365,Madvillainy,Madvillain,2004,Hip-Hop,Stones Throw
+366,Rocks,Aerosmith,1976,Rock,Columbia
+367,If You're Reading This It's Too Late,Drake,2015,Hip-Hop,Cash Money
+368,All Things Must Pass,George Harrison,1970,Folk,Apple
+369,The Infamous,Mobb Deep,1995,Hip-Hop,Loud
+370,Tha Carter II,Lil Wayne,2005,Hip-Hop,Universal
+371,Anthology,The Temptations,1973,Soul,Motown
+372,Cheap Thrills,Big Brother and the Holding Company,1968,Rock,Columbia
+373,Hot Buttered Soul,Isaac Hayes,1969,Soul,Enterprise
+374,King of the Delta Blues Singers,Robert Johnson,1961,Blues,Columbia
+375,Dookie,Green Day,1994,Punk,Reprise
+376,In the Aeroplane Over the Sea,Neutral Milk Hotel,1998,Indie Rock,Merge
+377,Fever to Tell,Yeah Yeah Yeahs,2003,Indie Rock,Interscope
+378,Run-D.M.C.,Run-D.M.C.,1983,Hip-Hop,Profile
+379,Moving Pictures,Rush,1981,Rock,Anthem
+380,Mingus Ah Um,Charles Mingus,1959,Jazz,Columbia
+381,(Pronounced 'Leh-'Nerd 'Skin-'Nerd),Lynyrd Skynyrd,1973,Rock,MCA
+382,Currents,Tame Impala,2015,Pop,Interscope
+383,Mezzanine,Massive Attack,1998,Alternative,Virgin
+384,The Kinks Are the Village Green Preservation Society,The Kinks,1969,Rock,Reprise
+385,Rocket to Russia,Ramones,1977,Punk,Sire
+386,Donuts,J Dilla,2006,Hip-Hop,Stones Throw
+387,In Rainbows,Radiohead,2007,Alternative,XL
+388,"Young, Gifted and Black",Aretha Franklin,1972,Soul,Atlantic
+389,The Emancipation of Mimi,Mariah Carey,2005,R&B,Island
+390,Surfer Rosa,Pixies,1988,Indie Rock,4AD
+391,Kaleidoscope,Kelis,1999,R&B,Virgin
+392,Proud Mary: The Best of Ike and Tina Turner,Ike and Tina Turner,1991,Soul,EMI
+393,1989,Taylor Swift,2014,Pop,Big Machine
+394,Diana,Diana Ross,1980,Disco,Motown
+395,Black Messiah,D'Angelo and the Vanguard,2014,R&B,RCA
+396,Something/Anything?,Todd Rundgren,1972,Rock,Bearsville
+397,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,2019,Pop,Interscope
+398,The Raincoats,The Raincoats,1979,Rock,Rough Trade
+399,Smile,Brian Wilson,2004,Pop,Nonesuch
+400,Beauty and the Beat,The Go-Go's,1981,Rock,I.R.S.
+401,Blondie,Blondie,1977,Rock,Private Stock
+402,Expensive Shit,Fela Kuti and Africa 70,1975,Jazz,Sounds Workshop
+403,Supreme Clientele,Ghostface Killah,2000,Hip-Hop,Epic
+404,Rapture,Anita Baker,1986,R&B,Elektra
+405,Nuggets: Original Artyfacts from the First Psychedelic Era,Various Artists,1972,Rock,Elektra
+406,69 Love Songs,Magnetic Fields,1999,Indie Rock,Merge
+407,Everybody Knows This Is Nowhere,Neil Young,1969,Folk,Reprise
+408,Ace of Spades,Motorhead,1980,Metal,Bronze
+409,Workingman's Dead,Grateful Dead,1970,Folk,Warner Bros.
+410,Wild Honey,The Beach Boys,1967,Rock,Capitol
+411,Love and Theft,Bob Dylan,2001,Folk,Columbia
+412,Going to a Go Go,Smokey Robinson and the Miracles,1965,Soul,Motown
+413,Cosmo's Factory,Creedence Clearwater Revival,1970,Folk,Fantasy
+414,Risque,Chic,1979,Disco,Atlantic
+415,Look-Ka Py Py,The Meters,1969,Funk,Josie
+416,Things Fall Apart,The Roots,1999,Hip-Hop,MCA
+417,The Shape of Jazz to Come,Ornette Coleman,1959,Jazz,Atlantic
+418,Brothers in Arms,Dire Straits,1985,Rock,Warner Bros.
+419,Chief,Eric Church,2011,Country,EMI Nashville
+420,That's the Way of the World,"Earth, Wind, and Fire",1975,Funk,Columbia
+421,Arular,M.I.A,2005,Hip-Hop,Interscope
+422,Let's Get It On,Marvin Gaye,1973,Soul,Motown
+423,I Can Hear the Heart Beating as One,Yo La Tengo,1997,Indie Rock,Matador
+424,Odelay,Beck,1996,Rock,Geffen
+425,Paul Simon,Paul Simon,1972,Folk,Columbia
+426,Lucinda Williams,Lucinda Williams,1988,Folk,Rough Trade
+427,Call Me,Al Green,1973,Soul,Hi
+428,New Day Rising,Husker Du,1985,Rock,SST
+429,Reach Out,The Four Tops,1967,Soul,Motown
+430,Un Verano Sin Ti,Bad Bunny,2022,Reggaeton,RIMAS
+431,How Will the Wolf Survive,Los Lobos,1984,Folk,Warner Bros.
+432,Confessions,Usher,2004,R&B,Arista
+433,Sound of Silver,LCD Soundsystem,2007,Electronic,Capitol
+434,"Crooked Rain, Crooked Rain",Pavement,1994,Indie Rock,Matador
+435,Actually,Pet Shop Boys,1987,Synthpop,EMI Manhattan
+436,All Eyez on Me,2Pac,1996,Hip-Hop,Death Row
+437,Demon Days,Gorillaz,2005,Alternative,EMI
+438,Parklife,Blur,1994,Britpop,Food
+439,Sex Machine,James Brown,1970,Funk,King
+440,Coal Miner’s Daughter,Loretta Lynn,1971,Country,Decca
+441,Blackout,Britney Spears,2007,Pop,Jive
+442,Beauty Behind the Madness,The Weeknd,2015,Pop,XO
+443,Scary Monsters,David Bowie,1980,Rock,RCA
+444,Extraordinary Machine,Fiona Apple,2005,Rock,Epic
+445,Close to the Edge,Yes,1972,Rock,Atlantic
+446,Journey in Satchidanada,Alice Coltrane,1971,Jazz,Impulse!
+447,X 100pre,Bad Bunny,2018,Reggaeton,RIMAS
+448,Dictionary of Soul,Otis Redding,1966,Soul,Volt
+449,Elephant,The White Stripes,2003,Rock,Third Man
+450,Ram,Paul McCartney & Linda McCartney,1971,Rock,Apple
+451,First Take,Roberta Flack,1969,Soul,Atlantic
+452,Anthology,Diana Ross and the Supremes,1974,Soul,Motown
+453,Pretty Hate Machine,Nine Inch Nails,1989,Alternative,TVT
+454,Ege Bamyasi,Can,1972,Rock,United Artists
+455,Bo Diddley/Go Bo Diddley,Bo Diddley,1958,Rock & Roll,Chess
+456,Greatest Hits,Al Green,1975,Soul,EMI
+457,I Do Not Want What I Haven’t Got,Sinead O'Connor,1990,Pop,Chrysalis
+458,Southeastern,Jason Isbell,2013,Folk,Southeastern
+459,Man on the Moon: The End of the Day,Kid Cudi,2009,Hip-Hop,Dream On
+460,Melodrama,Lorde,2017,Pop,Universal
+461,For Emma,Bon Iver,2008,Folk,Jagjaguwar
+462,The Gilded Palace of Sin,The Flying Burrito Brothers,1969,Country,A&M
+463,Eli & the 13th Confession,Laura Nyro,1968,Rock,Columbia
+464,3 + 3,The Isley Brothers,1973,Soul,T-Neck
+465,The Best of the Classic Years,King Sunny Ade,2003,World,Shanachie
+466,Red,Black Uhuru,1981,Reggae,Island
+467,BLACKsummers'night,Maxwell,2009,R&B,Columbia
+468,Some Girls,The Rolling Stones,1978,Rock,Rolling Stones
+469,Clandestino,Manu Chao,1998,Latin,Virgin
+470,400 Degreez,Juvenile,1998,Hip-Hop,Cash Money
+471,Surrealistic Pillow,Jefferson Airplane,1967,Rock,RCA
+472,CRTL,SZA,2017,R&B,RCA
+473,Barrio Fino,Daddy Yankee,2004,Reggaeton,V.I. Music
+474,#1 Record,Big Star,1972,Pop,Ardent
+475,Sheryl Crowe,Sheryl Crowe,1996,Rock,A&M
+476,Kimono My House,Sparks,1974,Rock,Island
+477,Moanin’ in the Moonlight,Howlin' Wolf,1959,Blues,Chess
+478,Something Else by The Kinks,The Kinks,1968,Rock,Pye
+479,Amor Prohibido,Selena,1994,Latin,EMA Latin
+480,The Weight of These Wings,Miranda Lambert,2016,Country,ERCA Nashville
+481,If You're Feeling Sinister,Belle and Sebastian,1996,Indie Rock,Jeepster
+482,Bizarre Ride II the Pharcyde,The Pharcyde,1992,Hip-Hop,Delicious Vinyl
+483,The Anthology,Muddy Waters,2001,Blues,MCA
+484,Born This Way,Lady Gaga,2011,Pop,Interscope
+485,I Want to See the Bright Lights Tonight,Richard and Linda Thompson,1974,Folk,Island
+486,Continuum,John Mayer,2006,Rock,Columbia
+487,Damaged,Black Flag,1981,Punk,SST
+488,The Stooges,The Stooges,1969,Rock,Elektra
+489,Back to Mono (1958-1969),Phil Spector and Various Artists,1991,Pop,ABKCO
+490,Heart Like a Wheel,Linda Ronstadt,1975,Rock,Capitol
+491,Harry's House,Harry Styles,2022,Pop,Columbia
+492,Nick of Time,Bonnie Raitt,1989,Rock,Capitol
+493,Here My Dear,Marvin Gaye,1978,Soul,Motown
+494,Presenting the Fabulous Ronettes,The Ronettes,1964,Pop,Philles
+495,II,Boyz II Men,1991,R&B,Motown
+496,Donde Están Los Ladrones,Shakira,1998,Latin,Columbia
+497,The Indestructible Beat of Soweto,Various Artists,1985,World,Earthworks
+498,Suicide,Suicide,1977,Alternative,Red Star
+499,Ask Rufus,"Rufus, Chaka Khan",1977,Funk,ABC
+500,Funeral,Arcade Fire,2004,Indie Rock,Merge
